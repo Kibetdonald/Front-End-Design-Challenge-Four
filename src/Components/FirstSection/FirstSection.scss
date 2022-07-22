@@ -1,0 +1,29 @@
+
+.hero {
+    position: relative;
+    padding: 130px 0 140px;
+    z-index: 1;
+  }
+  
+  .hero-content { text-align: center; }
+  
+  .hero-title,
+  .hero-text { margin-bottom: 40px; }
+  
+  .hero-text {
+    font-size: var(--fs-4);
+    color: var(--oxford-blue);
+  }
+  
+  .hero .btn-primary { margin-inline: auto; }
+  
+  .hero-banner { display: none; }
+  
+  .shape-content {
+    position: absolute;
+    width: 900px;
+    top: -230px;
+    right: -300px;
+    z-index: -1;
+  }
+  
