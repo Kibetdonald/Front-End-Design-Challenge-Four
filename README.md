@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Challenge Two
+
+### Initial Figma Design
+> ![Screenshot (509)](https://user-images.githubusercontent.com/50916200/180373219-2bf59bd0-193e-4d80-bf1b-9eeecec11720.png)
+
+
+
+
+
+### End Product
+>![final product](https://user-images.githubusercontent.com/50916200/180373066-c782835b-a840-4a2a-af8c-86f5b75ecf2b.JPG)
+
+
+
+
+# Step By Step Process
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
